@@ -9,7 +9,7 @@
 |       Key        |          Value          |
 | :--------------: | :---------------------: |
 | OpenCore version |          0.9.7          |
-|  MacOS version   |       Ventura 14.3      |
+|  MacOS version   |       Sonama 14.3      |
 
 ## Bios 设置
 
@@ -58,8 +58,11 @@
 
 - 开机偶发卡住，不管是进入 win 还是 mac 都有这个问题。看起来像个例，有没出现这个问题的。查询了大量的资料发现跟我的硬改网卡有关系。暂时无解。
 
+## sonama截图
 
-## 部分系统截图
+<img src='./assets//screenshot_20240123.png' style="zoom:25%;" />
+
+## 部分系统截图 [https://github.com/SunSeekerX/intel-nuc8-i5beh-hackintosh-opencore-efi](fork仓库)
 
 <img src="./assets/iShot_2023-02-15_14.52.14.webp" style="zoom:25%;" />
 
