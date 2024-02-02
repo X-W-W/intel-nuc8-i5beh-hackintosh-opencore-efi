@@ -1,3 +1,11 @@
+# 注意
+本仓库包含两个不同作者的efi
+
+- Branch sonoma [维奇](https://github.com/weachy)
+- Branch master [SunSeekerX](https://github.com/SunSeekerX)
+
+两个都是可以正常使用的，用哪个请自行决定，更换efi之后记得reset Nvram
+
 # OpenCore for intel nuc8i5ben
 
 ![nuc8i5bek-nuc8i5beh-pb-16x9.png.rendition.intel.web.1920.1080](./assets/nuc8i5bek-nuc8i5beh-pb-16x9.png.rendition.intel.web.1920.1080.webp)
