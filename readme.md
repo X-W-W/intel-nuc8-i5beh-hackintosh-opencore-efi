@@ -1,12 +1,4 @@
-# 注意
-本仓库包含两个不同作者的efi
-
-- Branch sonoma [维奇](https://github.com/weachy)
-- Branch master [SunSeekerX](https://github.com/SunSeekerX)
-
-两个都是可以正常使用的，用哪个请自行决定，更换efi之后记得reset Nvram
-
-# OpenCore for intel nuc8i5ben
+# OpenCore for intel nuc8i5beh/nuc8i5bek （Broadcom）
 
 ![nuc8i5bek-nuc8i5beh-pb-16x9.png.rendition.intel.web.1920.1080](./assets/nuc8i5bek-nuc8i5beh-pb-16x9.png.rendition.intel.web.1920.1080.webp)
 
@@ -64,7 +56,7 @@
 
 ## 存在的问题
 
-- 开机偶发卡住，不管是进入 win 还是 mac 都有这个问题。看起来像个例，有没出现这个问题的。查询了大量的资料发现跟我的硬改网卡有关系。暂时无解。
+- ~~开机偶发卡住，不管是进入 win 还是 mac 都有这个问题。看起来像个例，有没出现这个问题的。查询了大量的资料发现跟我的硬改网卡有关系。暂时无解。~~
 
 ## sonama截图
 
