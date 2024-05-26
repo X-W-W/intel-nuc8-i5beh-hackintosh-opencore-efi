@@ -19,7 +19,7 @@
 - Power -> Wake on LAN from S4/S5: Stay Off
 - Boot -> Boot Configuration -> Network Boot: Disable
 - Boot -> Secure Boot -> Disable
-- Devices -> Video -> only HDMI(not auto, secondary not secondary) [https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build/issues/14#issuecomment-792000732](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build/issues/14#issuecomment-792000732)
+- Devices -> Video -> only HDMI(not auto, secondary not Thunderbolt) [https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build/issues/14#issuecomment-792000732](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build/issues/14#issuecomment-792000732)
 
 ## 安装说明
 
